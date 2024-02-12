@@ -1,0 +1,18 @@
+{
+	"Typescript React stateless functional element component": {
+		"scope": "typescriptreact",
+		"prefix": "wbtsrsfec",
+		"body": [
+			"import React, {ReactElement} from \"react\";",
+			"\ninterface I${1:App}Props {",
+			"}",
+			"\nconst ${1:App}: React.FunctionComponent<I${1:App}Props> = (props): ReactElement => {",
+			"\treturn (",
+			"\t\t<></>",
+			"\t);",
+			"};",
+			"\nexport default ${1:App};",
+		],
+		"description": "This is a Typescript React stateless functional element component"
+	}
+}
