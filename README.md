@@ -47,7 +47,7 @@ Steps on how to install the project locally:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/wilken311/nextjs-mongodb-crud-app.git
+   git clone https://github.com/wilken311/shop_nextjs-app.git
    ```
 2. Install NPM packages
    ```sh
