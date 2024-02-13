@@ -3,10 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/assets/img/nextjsmongodb.png" alt="Logo" width="150" height="80">
-  </a>
-
+  <img src="public/assets/img/nextjsmongodb.png" alt="Logo" width="150" height="80">
   <h3 align="center">Next JS + MongoDB App</h3>
   <h4>CRUD Functionality</h4>
 
